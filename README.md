@@ -1,6 +1,7 @@
 # Base 16, 32, 64, 85 Encoder
 
 Simple Python Module to Encode in Base 16, 32, 64, 85 with Replace Characters and Reverse Functions
+
 ![Pic1](https://user-images.githubusercontent.com/48202123/78636415-9487fb80-78a8-11ea-9606-db8225fe26c3.jpg)
 
 ## Installation

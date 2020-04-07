@@ -15,7 +15,7 @@ Simple Python Module to Encode in Base 16, 32, 64, 85 with Replace Characters an
 3- run this command to install dependencies 
 4- pip install -r requirements.txt
 #--------------------------------------------------------------------------#
-1- Or Download the Compiled [exe] Version and Run
+1- Or Download the Compiled [exe] Version
 ```
 
 ## Usage

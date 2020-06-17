@@ -29,5 +29,5 @@ Simple Python Module to Encode in Base 16, 32, 64, 85 with Replace Characters an
 ```
 
 ## Contributing
-This Module Was Developed By Me , This Module was made by me to help Developers for fast Development
+This Module Was Developed By Cyberdyne
 

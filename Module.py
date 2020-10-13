@@ -36,9 +36,9 @@ How to Use:                                                                     
                                                                                      |   
 4-    This Module was Developed to Make things Easier for Developers                 |                       
 =====================================================================================|
-By CyberdyneSM101   
+By Cyberdyne  
           
-Contact at Discord: CyberdyneSM101#9233                     
+Contact at Discord: Cyberdyne#9233                     
 """
 print(Banner)
 
